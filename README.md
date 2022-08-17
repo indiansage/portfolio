@@ -1,2 +1,2 @@
 # portfolio
-Portfolio made using React
+Portfolio made using React - under construction
