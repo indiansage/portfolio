@@ -1,0 +1,11 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "description": "Portfolio for Raktim Sharma",
+  "version": "0.1.0",
+  "license": "0BSD",
+  "scripts": {
+    "install-deps": "cd files && npm i",
+    "start": "cd files && npm start"
+  }
+}
